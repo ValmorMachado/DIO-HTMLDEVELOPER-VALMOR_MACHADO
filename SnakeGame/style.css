@@ -1,0 +1,21 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: #EECFA1;
+
+    height: 95vh;
+
+    width: 95;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    flex-direction: column;
+
+    color: #000000;
+
+}
